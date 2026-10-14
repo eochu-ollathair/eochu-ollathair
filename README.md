@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/avatar.jpg" alt="Profile portrait" width="260"></p>
 
-<h1 align="center">Rickie Doherty</h1>
-<p align="center"><strong>Carndonagh, Donegal</strong></p>
+<h1 align="center">R Donnelly</h1>
+<p align="center"><strong>Donegal</strong></p>
 
 I build things that help people find the interesting bit: a place they did not know was nearby, or the words in a call that a score missed.
 
